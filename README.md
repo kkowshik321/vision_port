@@ -150,11 +150,11 @@ This checks installed dependencies, PyTorch configuration, and available hardwar
 
 ## 👨‍💻 Author
 
-**Santhosh Yadala**
+**Kanumuri Kowshik**
 
-GitHub: [SanthoshYadala](https://github.com/SanthoshYadala)
+GitHub: [kanumuri kowshik](https://github.com/kkowshik321)
 
-Project: [VisionPort](https://github.com/SanthoshYadala/VisionPort)
+Project: [VisionPort](https://github.com/kkowshik321/vision_port)
 
 ---
 
