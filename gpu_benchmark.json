@@ -1,0 +1,8 @@
+{
+    "gpu": "Tesla T4",
+    "runs": 50,
+    "average_ms": 15.53,
+    "minimum_ms": 14.14,
+    "maximum_ms": 21.63,
+    "throughput_fps": 64.41
+}
